@@ -1,2 +1,0 @@
-# integradora.ada
-ada integradora
